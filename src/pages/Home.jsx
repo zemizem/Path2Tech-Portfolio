@@ -1,9 +1,9 @@
 import { NavLink } from "react-router-dom";
-import PlaceholderHero from '../assets/placeholder_hero_background.jpg'
+import Background from '../assets/Background.jpg'
 
-const fullName = 'Replace with your name';
-const personalQuote = 'Replace with your personal quote';
-const professionalSummary = 'Replace with your professional summary';
+const fullName = 'ZemZem Khiar';
+const personalQuote = 'Surely with hardship comes ease';
+const professionalSummary ='IT professional with over five years of experience in customer service and operations support. As an Engagement Specialist at Somatus, I optimize patient care using data analytics and healthcare software.I hold a Data Analytics certificate from General Assembly, with skills in SQL, Tableau, and Excel. Currently, training in Full Stack Development, focusing on HTML, CSS, and JavaScript.Passionate about improving healthcare accessibility for underserved populations, I aim to leverage my skills to drive positive change in healthcare delivery.';
 
 const Home = () => {
   return (
@@ -15,7 +15,7 @@ const Home = () => {
         Contact Me
         </NavLink>
         {/* Replace the src with your own placeholder and change the alt to match the description */}
-        <img className="hero-background" src={PlaceholderHero} alt="placeholder hero image" />
+        <img className="hero-background" src={Background} alt="placeholder hero image" />
       </section>
       <section className="overview home-subsection">
         <h3 className="subsection-intro-header">Introduction</h3>
