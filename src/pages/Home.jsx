@@ -28,7 +28,7 @@ const Home = () => {
       <section className="projects home-subsection">
         <h3 className="subsection-intro-header">My Works</h3>
         <h2 className="subsection-big-header">Projects.</h2>
-        <p className="subsection-paragraph">I have worked on multiple project, the projects I have worked on demonstrate my skills and experience through real-life examples of my work. Each project is briefly deescribed and includes links to code repositories that showcase my ability to tackle challenging problems. If you are interested in my work click on the link below to go to the project page.</p>
+        <p className="subsection-paragraph">I have worked on multiple project, the projects I have worked on demonstrate my skills and experience through real-life examples of my work. Each project is briefly described and includes links to code repositories that showcase my ability to tackle challenging problems. If you are interested in my work click on the link below to go to the project page.</p>
         <NavLink to="/projects">
         View Projects
         </NavLink>

@@ -14,7 +14,7 @@ const myProjects = [
   },
   {
     title: 'Weather App',
-    description: 'Description of project 2',
+    description: 'Weather application that will load data from the OpenWeatherAPI based on a location of choice',
     repositoryLink: 'https://github.com/zemizem/Weather-App-Tech-Tribe.git',
   },
   {
